@@ -21,13 +21,13 @@
   },
   "homepage": "https://github.com/ashubham/highcharts-webcomponent#readme",
   "dependencies": {
-    "tslib": "^1.10.0"
+    "tslib": "^2.3.1"
   },
   "peerDependencies": {
-    "highcharts": ">=5.0.0",
-    "lit-element": "^2.2.1"
+    "highcharts": "^9.2.2",
+    "lit-element": "^3.0.0"
   },
   "devDependencies": {
-    "typescript": "^3.7.3"
+    "typescript": "^4.4.3"
   }
 }
